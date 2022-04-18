@@ -1,5 +1,5 @@
 ###IGNORE THESE FILES
-DOCS
+__docs
 node_modules
 .eslintrc
 .env
